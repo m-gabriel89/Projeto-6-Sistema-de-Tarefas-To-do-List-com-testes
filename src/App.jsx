@@ -1,4 +1,4 @@
-import ListaTarefas from "./components/ListaTarefas/ListaTarefas"
+import ListaTarefas from "./components/ListaTarefas/index.jsx"
 import './main.css'
 export default function App(){
   return(
