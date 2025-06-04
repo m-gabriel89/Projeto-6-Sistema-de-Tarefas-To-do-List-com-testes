@@ -1,5 +1,5 @@
 import { render, screen, fireEvent } from '@testing-library/react'
-import ListaTarefas from '../components/ListaTarefas/ListaTarefas.jsx'
+import ListaTarefas from '../components/ListaTarefas/index.jsx'
 import React from 'react'; 
 
 describe('Lista de Tarefas', () => {
